@@ -1,4 +1,4 @@
-# Openhouse Assignment
+# Openhouse Assessment
 
 ## Answer
 
